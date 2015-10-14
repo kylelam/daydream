@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:2:1-20:12
+	xmlns:android
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:6:5-73
+	android:targetSdkVersion
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:6:15-44
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:6:45-71
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+		INJECTED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml
+application
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:8:5-19:19
+	android:label
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:8:18-46
+	android:icon
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:9:9-45
+service#com.example.android.simpleclock.Daydream
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:10:9-18:19
+	android:label
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:13:13-41
+	android:exported
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:11:13-37
+intent-filter#android.intent.category.DEFAULT+android.service.dreams.DreamService
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:14:13-17:29
+category#android.intent.category.DEFAULT
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:15:17-76
+	android:name
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:15:27-73
+action#android.service.dreams.DreamService
+ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:16:17-78
+	android:name
+		ADDED from /usr/local/google/home/kylelam/Downloads/gcm-master/samples/android/simpleclock/app/src/main/AndroidManifest.xml:16:25-75
